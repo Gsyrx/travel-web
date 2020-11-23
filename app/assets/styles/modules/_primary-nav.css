@@ -49,6 +49,13 @@
       font-size: 1rem;
       padding: 12px 0;
       background-color: transparent;
+<<<<<<< HEAD
+=======
+
+      &.is-current-link {
+        color: #fabb69;
+      }
+>>>>>>> header
     }
   }
 }
